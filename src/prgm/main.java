@@ -19,6 +19,8 @@ public class main {
 				+ "Sugar");
 		
 		System.out.println("New Pie News");
+		
+		System.out.println("Email Directory");
 
 
 		System.out.println("contacts");
