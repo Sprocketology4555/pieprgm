@@ -15,8 +15,8 @@ public class main {
 		System.out.println("Ingredients");
 		
 		System.out.println("Vegetables"
-				+ "Radioactive Waste"
-				+ "Sugar");
+				+ " Radioactive Waste"
+				+ " Sugar");
 		
 		System.out.println("New Pie News");
 		
